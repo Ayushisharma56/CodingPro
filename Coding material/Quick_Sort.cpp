@@ -8,6 +8,7 @@ The sort phase simply sorts the two smaller problems that are generated in the p
 -----Complexity: O(n·log n)--------
 */
 
+
 #include <iostream>
 using namespace std;
 
@@ -66,15 +67,3 @@ int main()
 	return 0;
 }
 
-
-
-/*
-Input: Enter the number of elements: 6
-Enter the elements to be sorted:
-67
-45
-24
-98
-12
-38
-*/
